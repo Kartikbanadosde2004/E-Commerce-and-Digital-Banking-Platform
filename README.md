@@ -3,7 +3,7 @@
 This is a Python with SQL major project that combines an e-commerce marketplace with a simple wallet and banking service. 
 Customers can register, browse products, manage a cart, place orders, pay from a wallet or linked bank account, and request refunds. 
 Administrators manage products, stock, orders and transaction reports. The project is built with Python, Flask and SQLite,
-and tested with Postman. It runs locally. Deployment files for AWS EC2 are prepared but the project is not hosted on a cloud server.
+and tested with Postman. It runs locally.
 
 ## Features
 
@@ -23,7 +23,7 @@ and tested with Postman. It runs locally. Deployment files for AWS EC2 are prepa
 | API | Python 3, Flask, Flask-JWT-Extended |
 | Database | SQLite |
 | Testing | Postman |
-| Deployment | Runs locally. EC2 setup files are prepared but not hosted |
+| Deployment | Runs locally.|
 
 ## Run Locally
 
